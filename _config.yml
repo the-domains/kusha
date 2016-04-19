@@ -1,0 +1,28 @@
+name: Kusha
+favicon: null
+layout_spectrum: 0.13455716194584966
+typography_spectrum: 0.005198395345360041
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5764530894812196
+  lightness: 0.3324270297307521
+  saturation: 0.5599292910192162
+  rhythmicContrast: 0.47186009562574327
+purpose: []
