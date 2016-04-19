@@ -1,6 +1,6 @@
 name: Kusha
 favicon: null
-layout_spectrum: 0.50422
+layout_spectrum: 0
 typography_spectrum: 0.50129
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#de8452'
     - '#63c5de'
     - '#d6e629'
-  brandStrength: 0.5764530894812196
+  brandStrength: 0.3125
   lightness: 0.3324270297307521
   saturation: 0.5599292910192162
   rhythmicContrast: 0.47186009562574327
