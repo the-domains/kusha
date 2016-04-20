@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Allow me to take the frustration and confusion out of Payroll and HR!'
-datePublished: '2016-04-20T00:36:41.698Z'
-dateModified: '2016-04-20T00:36:36.118Z'
+datePublished: '2016-04-20T00:39:59.748Z'
+dateModified: '2016-04-20T00:39:57.537Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-take-the-frustration-and-confusion-out-of-payroll-and-hr.md
