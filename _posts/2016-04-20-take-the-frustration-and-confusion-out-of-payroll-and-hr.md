@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Are you a certified HR professional? Are you educated and updated on the ever-changing employment, payroll, and tax laws? If not, don't risk everything by trying to figure it all out on your own! Let me help by taking the high risk, time consuming, non-revenue generating activities off of your plate so that you can focus on what's important: Sales!"
-datePublished: '2016-04-20T00:54:38.923Z'
-dateModified: '2016-04-20T00:53:50.148Z'
+datePublished: '2016-04-20T00:55:51.061Z'
+dateModified: '2016-04-20T00:55:09.767Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-take-the-frustration-and-confusion-out-of-payroll-and-hr.md
