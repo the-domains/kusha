@@ -4,7 +4,7 @@
         <description><![CDATA[Kusha's Business Website]]></description>
         <link>https://thegrid.ai/kusha/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 00:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 00:24:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kusha/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/kusha/contact-me/index.html</link>
             <guid isPermaLink="false">7a90b545-2fde-44bb-895c-018d1820a4f8</guid>
             <pubDate>Wed, 20 Apr 2016 00:10:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/329dfbb5-e905-41da-a400-2e8d23ad20c2.jpg">]]></description>
-            <link>https://thegrid.ai/kusha/paychex-sales-consultant/index.html</link>
-            <guid isPermaLink="false">d13e1e52-d0a7-4abb-94de-922e79f2ad91</guid>
-            <pubDate>Wed, 20 Apr 2016 00:08:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
