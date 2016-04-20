@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Kusha Nikoui
-datePublished: '2016-04-20T00:04:37.763Z'
-dateModified: '2016-04-20T00:03:41.573Z'
+datePublished: '2016-04-20T00:12:27.570Z'
+dateModified: '2016-04-20T00:12:18.498Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-20-kusha-nikoui.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-20-kusha-nikoui.md
-published: true
 url: kusha-nikoui/index.html
 _type: Article
 
@@ -25,3 +25,5 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec2c448f-973e-4747-a372-5703de16f949.gif)
 
 Kusha Nikoui
+
+I am a team oriented business manager and sales consultant with over ten years of leadership and sales experience. I currently represent Paychex as the sales consultant for Concord, Martinez, Clayton, and the surrounding area, serving as a tax and payroll expert and resource to local businesses. I strive to provide the highest levels of service and professionalism while offering business solutions designed to save time, save money, limit liability, and provide business managers with the freedom to succeed. Over the course of my professional career, I have led teams ranging from three to three-hundred employees. My experiences have provided me with the opportunity to develop strong managerial skills that can be applied to any profession. I am passionate about providing exceptional service, developing others, and driving profitable sales. By applying these passions to my performance, I have found success at every stage of my career, consistently earning strong reviews from my supervisors, exceeding goals, and receiving top performer honors. Nevertheless, no individual achievement compares to the sense of fulfillment and gratification I feel when helping others achieve their goals and find success in their careers.
